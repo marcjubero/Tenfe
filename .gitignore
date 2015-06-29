@@ -1,6 +1,9 @@
 #Mac OS X Files
 .DS_Store
 
+#Windows Files
+Thumbs.db
+
 # Built application files
 *.apk
 *.ap_
@@ -75,5 +78,3 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
-
-Thumbs.db
